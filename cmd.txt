@@ -1,0 +1,7 @@
+cd F:\plat project\zap_test\dash\backend
+set PATH=F:\node\node-v25.6.0-win-x64;%PATH%
+npm run dev
+
+cd F:\plat project\zap_test\dash\frontend
+set PATH=F:\node\node-v25.6.0-win-x64;%PATH%
+npm run dev
