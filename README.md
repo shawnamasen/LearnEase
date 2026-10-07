@@ -439,4 +439,4 @@ Use `.env.example` only as a template showing which configuration values are req
 
 ## Author
 
-Developed as a full-stack AI-powered learning platform demonstrating web development, API integration, Firebase authentication and data management, file processing, quiz generation, and generative AI integration.
+Created as a student project for an AI-powered learning platform demonstrating web development, API integration, Firebase authentication and data management, file processing, quiz generation, and generative AI integration.
